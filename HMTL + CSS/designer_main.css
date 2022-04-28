@@ -1,4 +1,16 @@
-
-p{
+body{
+    background-color: rgb(110, 44, 172);
+}
+h1{
+    color: white;
     text-align: center;
+    font-size: 50px;
+}
+p{                     
+    text-align: center;
+    font-size: 30px;
+}
+
+strong{
+    color: white;
 }
