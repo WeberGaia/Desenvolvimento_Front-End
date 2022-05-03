@@ -1,6 +1,9 @@
 body{
     background-color: rgb(110, 44, 172);
 }
+#banner{
+    width: 50%;
+}
 h1{
     color: white;
     text-align: center;
@@ -11,6 +14,9 @@ p{
     font-size: 30px;
 }
 
+#teste{
+    font-style: italic;
+}
 strong{
     color: white;
 }
