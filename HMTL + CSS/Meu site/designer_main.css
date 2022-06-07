@@ -5,11 +5,11 @@ body{
     width: 100%;
 }
 .principal{
-    background-color: rgb(110, 44, 172);
+    background-color: rgb(102, 172, 44);
     padding: 10px;
 }
 .titulo-principal{
-    padding: 30px;
+    padding: 20px;
 }
 .centralizado{
     
